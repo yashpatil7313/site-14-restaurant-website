@@ -40,8 +40,6 @@ site-14-restaurant-website/
 
 ## 📸 Preview
 
-> ⚠️ Make sure `preview.png` is uploaded in the same folder
-
 ![Restaurant Website Preview](preview14.png)
 
 ---
